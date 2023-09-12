@@ -14,55 +14,6 @@ That's why I like to make things that make a difference.
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/pytest-original.svg" width="48" height="48" alt="Pytest" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/django-original.svg" width="48" height="48" alt="Django" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/icons8-flask.svg" width="48" height="48" alt="Flask" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/javascript-original.svg" width="48" height="48" alt="JS" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/icons8-typescript-96.svg" width="48" height="48" alt="TS" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/vuejs-original.svg" width="48" height="48" alt="Vuejs" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/mysql-original.svg" width="48" height="48" alt="Mysql" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/bash-original.svg" width="48" height="48" alt="Bash" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/docker-svgrepo-com.svg" width="48" height="48" alt="Docker" />
-        </td>
-    </tr>
-</table>
-
 ## Find me around the web 🌎:
 
 - Write me an email 📧: brice.venayre@gmail.com
@@ -79,6 +30,8 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Tools and technologies from **Vue.js ecosystem**
 - 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing).
+
+## <br/>
 
 ---
 
@@ -152,30 +105,22 @@ That's why I like to make things that make a difference.
 [nuxt]: https://img.shields.io/badge/Nuxt3-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82
 [nuxt-url]: https://nuxt.com/
 [bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-[postgresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
+[bootstrap-url]: https://getbootstrap.com/
 [github-actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
 [github-actions-url]: https://github.com/features/actions
-[circleci]: https://img.shields.io/badge/circleci-white.svg?style=for-the-badge&logo=circleci&logoColor=black
+[circleci]: https://img.shields.io/badge/circleci-dfe3eb.svg?style=for-the-badge&logo=circleci&logoColor=black
 [circleci-url]: https://circleci.com/
-[bootstrap-url]: https://getbootstrap.com/
-[json-api]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
-[jsonapi-url]: https://jsonapi.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [nuxt-3]: https://img.shields.io/badge/Nuxt3-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82
 [nuxt3-url]: https://nuxt.com/
-[postgre]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
 [docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [docker-url]: https://www.docker.com/
-[github-actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
-[github-actions-url]: https://github.com/features/actions
 [heroku]: https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white
 [heroku-url]: https://www.heroku.com/
 [git]: https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [git-url]: https://git-scm.com/
-[github]: https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black
+[github]: https://img.shields.io/badge/github-dfe3eb?style=for-the-badge&logo=github&logoColor=black
 [github-url]: https://github.com/
 [stackoverflow]: https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 [stackoverflow-url]: https://stackoverflow.co/
@@ -189,3 +134,5 @@ That's why I like to make things that make a difference.
 [selenium-url]: hhttps://www.selenium.dev/
 [aws]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
+[postgresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/
