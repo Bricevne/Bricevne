@@ -21,9 +21,9 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 
 ### Find me around the web 🌎:
 
-- Write me an email 📧: brice.venayre@gmail.com
-- <a href="https://bricevenayre.herokuapp.com/">Portfolio</a>
-- <a href="https://www.linkedin.com/in/brice-venayre/">LinkedIn</a>
+- Write me an email at brice.venayre@gmail.com
+- Check out my personal <a href="https://bricevenayre.herokuapp.com/">Portfolio</a>
+- Connect with me on <a href="https://www.linkedin.com/in/brice-venayre/">LinkedIn</a>
 
 ---
 
