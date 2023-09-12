@@ -22,16 +22,14 @@ That's why I like to make things that make a difference.
 
 ## Talking about Personal Stuffs:
 
-<img align="left" alt="GIF" src="./img/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="./img/coding.gif" width="408" height="318" />
 <br/>
-- 💻 I'm a **Software Engineer**
+- 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Tools and technologies from **Vue.js ecosystem**
 - 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing).
-
-## <br/>
 
 ---
 
