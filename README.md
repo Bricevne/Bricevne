@@ -24,7 +24,7 @@ I'm a software engineer who is passionate about making contributions to open sou
             <img src="./img/javascript-original.svg" width="48" height="48" alt="JS" />
         </td>
         <td align="center" width="96">
-            <img src="./img/c-original.svg" width="48" height="48" alt="C" />
+            <img src="./img/icons8-typescript-96" width="48" height="48" alt="TS" />
         </td>
         <td align="center" width="96">
             <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
