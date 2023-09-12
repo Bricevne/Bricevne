@@ -18,16 +18,16 @@ That's why I like to make things that make a difference.
 - <a href="https://bricevenayre.herokuapp.com/">Portfolio</a>
 - <a href="https://www.linkedin.com/in/brice-venayre/">LinkedIn</a>
 
-## Talking about Personal Stuffs:
+<img align="right" alt="GIF" src="./img/coding.gif" width="270" height="200" />
 
-<img align="right" alt="GIF" src="./img/coding.gif" width="408" height="318" />
+### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Tools and technologies from **Vue.js ecosystem**
-- 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing)
 
 ---
 
