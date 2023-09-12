@@ -2,22 +2,17 @@
 
 I'm a full-stack software engineer. I love programming, playing the music and reading.
 
-As a software engineer, I enjoy using my obsessive attention to details, working on technologies like Python, Django, JS/TS with CI/CD good practices !
+As a software engineer, I enjoy using my obsessive attention to details, working on technologies like Python, Django (Rest framework), Flask, Vue.js(Nuxt), JS/TS with good CI/CD practices !
 
-## Favorite Techs:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
-
-<img align="right" alt="GIF" src="./gif/coding.gif" width="270" height="200" />
+<img align="right" alt="GIF" src="./gif/coding.gif" width="390" height="280" />
 
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
 - 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-  - Tools and technologies from **Vue.js ecosystem**
-- 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing)
+- 🌱 I'm in a perpetual search for progress and learning
+- 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=drive_link)
 
 ### Find me around the web 🌎:
 
@@ -37,10 +32,8 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 [![typeScript][typescript]][typescript-url]
 ![HTML][html]
 ![CSS][css]
-[![SASS][sass]][sass-url]
-[![Markdown][markdown]][markdown-url]
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks
 
 [![Django][django]][django-url]
 [![Django REST framework][drf]][drf-url]
@@ -49,9 +42,14 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 [![Nuxt3][nuxt]][nuxt-url]
 [![Bootstrap][bootstrap]][bootstrap-url]
 
-### 🗄️ Databases, CI and cloud hosting
+### 🗄️ Databases
 
 [![PostgreSQL][postgresql]][postgresql-url]
+[![MySQL][mysql]][mysql-url]
+[![MongoDB][mongodb]][mongodb-url]
+
+### 🗃️ CI and cloud hosting
+
 [![Github Actions][github-actions]][github-actions-url]
 [![CircleCI][circleci]][circleci-url]
 [![Heroku][heroku]][heroku-url]
@@ -60,14 +58,18 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 
 [![Git][git]][git-url]
 [![GitHub][github]][github-url]
-[![Stack Overflow][stackoverflow]][stackoverflow-url]
 [![Visual Studio Code][vscode]][vscode-url]
-[![JsonApi][jsonapi]][jsonapi-url]
-[![Selenium][selenium]][selenium-url]
 [![AWS][aws]][aws-url]
+[![SASS][sass]][sass-url]
+[![Markdown][markdown]][markdown-url]
+
+### 🔧 Testing
+
 [![Postman][postman]][postman-url]
 [![Cypress][cypress]][cypress-url]
 [![Playwright][playwright]][playwright-url]
+[![Selenium][selenium]][selenium-url]
+[![Sentry][sentry]][sentry-url]
 
 [cypress]: https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&logoColor=white
 [cypress-url]: https://www.cypress.io/
@@ -114,17 +116,19 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 [git-url]: https://git-scm.com/
 [github]: https://img.shields.io/badge/github-dfe3eb?style=for-the-badge&logo=github&logoColor=black
 [github-url]: https://github.com/
-[stackoverflow]: https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
-[stackoverflow-url]: https://stackoverflow.co/
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [vscode-url]: https://code.visualstudio.com/
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [postman-url]: https://www.postman.com/
-[jsonapi]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
-[jsonapi-url]: https://jsonapi.org/
 [selenium]: https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium&logoColor=green
 [selenium-url]: hhttps://www.selenium.dev/
 [aws]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
 [aws-url]: https://aws.amazon.com/
 [postgresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [postgresql-url]: https://www.postgresql.org/
+[mysql]: https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: hhttps://www.mysql.com/
+[mongodb]: https://img.shields.io/badge/mongodb-35495E?style=for-the-badge&logo=mongodb&logoColor=black
+[mongodb-url]: https://www.mongodb.com/fr-fr
+[sentry]: https://img.shields.io/badge/sentry-yellow?style=for-the-badge&logo=sentry&logoColor=black
+[sentry-url]: https://www.mongodb.com/fr-fr
