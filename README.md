@@ -8,7 +8,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 That's why I like to make things that make a difference.
 
-### Talking about Personal Stuffs:
+## Favorite Techs:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
+
+<img align="right" alt="GIF" src="./img/coding.gif" width="270" height="200" />
+
+## Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
@@ -17,17 +23,11 @@ That's why I like to make things that make a difference.
   - Tools and technologies from **Vue.js ecosystem**
 - 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing)
 
-## Favorite Techs:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
-
-## Find me around the web 🌎:
+### Find me around the web 🌎:
 
 - Write me an email 📧: brice.venayre@gmail.com
 - <a href="https://bricevenayre.herokuapp.com/">Portfolio</a>
 - <a href="https://www.linkedin.com/in/brice-venayre/">LinkedIn</a>
-
-<img align="right" alt="GIF" src="./img/coding.gif" width="270" height="200" />
 
 ---
 
