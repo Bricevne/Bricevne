@@ -2,9 +2,7 @@
 
 I'm a full-stack software engineer. I love programming, playing the music and reading.
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-
-As a software engineer, I enjoy using my obsessive attention to detail, working on technologies like Python, Django, JS/TS with CI/CD good practices !
+As a software engineer, I enjoy using my obsessive attention to details, working on technologies like Python, Django, JS/TS with CI/CD good practices !
 
 ## Favorite Techs:
 
