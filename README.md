@@ -1,9 +1,8 @@
 # Hi, I’m Brice 👋👨‍💻
 
-`
-I'm a software engineer who is passionate about making contributions to open source more accessible, creating new technologies to improve people's living standards and moving the community.`
+`I'm a fullstack software developer, working on technologies like Python, Django, JS/TS with CI/CD good practices !`
 
-## Favorite Tech:
+## Favorite Techs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
 
@@ -63,3 +62,14 @@ I'm a software engineer who is passionate about making contributions to open sou
 - Write me an email 📧: brice.venayre@gmail.com
 - <a href="https://bricevenayre.herokuapp.com/">Portfolio</a>
 - <a href="https://www.linkedin.com/in/brice-venayre/">LinkedIn</a>
+
+## Talking about Personal Stuffs:
+
+<img align="left" alt="GIF" src="./img/coding.gif" width="408" height="318" />
+
+- 💻 I'm a Software Engineer
+- 🔭 I’m currently working on a web app for learning japanese and chinese
+- 💬 Ask me about anything, I am happy to help
+- 🌱 I'm currently learning:
+  - Tools and technologies from Vue.js ecosystem
+- 📝 [Resume](https://drive.google.com/file/d/1eeeJboMUPHVYr96GRcs9L66gKjwr1ZJr/view?usp=sharing).
