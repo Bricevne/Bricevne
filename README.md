@@ -12,8 +12,6 @@ That's why I like to make things that make a difference.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
 
-> Tools, languages, and other things that I like to work with.
-
 ## Find me around the web 🌎:
 
 - Write me an email 📧: brice.venayre@gmail.com
@@ -23,7 +21,7 @@ That's why I like to make things that make a difference.
 ## Talking about Personal Stuffs:
 
 <img align="right" alt="GIF" src="./img/coding.gif" width="408" height="318" />
-<br/>
+
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
 - 💬 Ask me about anything, I am happy to help
