@@ -21,6 +21,9 @@ I'm a software engineer who is passionate about making contributions to open sou
             <img src="./img/django-original.svg" width="48" height="48" alt="Django" />
         </td>
         <td align="center" width="96">
+            <img src="./img/icons8-flask.svg" width="48" height="48" alt="Flask" />
+        </td>
+        <td align="center" width="96">
             <img src="./img/javascript-original.svg" width="48" height="48" alt="JS" />
         </td>
         <td align="center" width="96">
@@ -28,9 +31,6 @@ I'm a software engineer who is passionate about making contributions to open sou
         </td>
         <td align="center" width="96">
             <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-        </td>
-        <td align="center" width="96">
-            <img src="./img/tia-portal-original.svg" width="48" height="48" alt="TIA-Portal" />
         </td>
     </tr>
     <tr>
