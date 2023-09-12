@@ -1,20 +1,18 @@
 # Hi, I’m Brice 👋👨‍💻
 
-`I'm a fullstack software developer, working on technologies like Python, Django, JS/TS with CI/CD good practices !`
+I'm a full-stack software engineer. I love programming, playing the music and reading.
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail, working on technologies like Python, Django, JS/TS with CI/CD good practices !
 
 ## Favorite Techs:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricevne&layout=compact)](https://github.com/Bricevne/github-readme-stats)
 
-<img align="right" alt="GIF" src="./img/coding.gif" width="270" height="200" />
+<img align="right" alt="GIF" src="./gif/coding.gif" width="270" height="200" />
 
-## Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Software Developer**
 - 🔭 I’m currently working on a **web app** for learning japanese and chinese
