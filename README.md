@@ -131,4 +131,4 @@ As a software engineer, I enjoy using my obsessive attention to details, working
 [mongodb]: https://img.shields.io/badge/mongodb-35495E?style=for-the-badge&logo=mongodb&logoColor=black
 [mongodb-url]: https://www.mongodb.com/fr-fr
 [sentry]: https://img.shields.io/badge/sentry-yellow?style=for-the-badge&logo=sentry&logoColor=black
-[sentry-url]: https://www.mongodb.com/fr-fr
+[sentry-url]: https://sentry.io/welcome/
